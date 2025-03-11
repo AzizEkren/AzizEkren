@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> 
 
 ### 🛠 Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" />
 <img src="https://img.shields.io/badge/Android-%2303DAC5.svg?style=for-the-badge&logo=android&logoColor=white" />
 
 ### 🔧 Database & DevOps
