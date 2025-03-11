@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 👋 Hi, I'm **Aziz Ekren**!  
-🎯 Passionate about **Android Development, Web Technologies, and Data Science**.  
+🎯 Passionate about **Android Development, Web Technologies, and Mobile Development**.  
 💡 Currently learning **Machine Learning & AI**.  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/azizekren)
 
@@ -18,6 +18,8 @@
 ### 🔧 Database & DevOps
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&compact=true&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ### 🖥️ Version Control & OS
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
